@@ -1,1 +1,1 @@
-# Data-science-interview-questions
+# Data science interview-questions
