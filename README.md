@@ -14,7 +14,9 @@
   <li>
     What is the difference between classification and regression?
   </li>
-  <li></li>
+  <li>
+    What is a confusion matrix? Explain precision, recall, and F1-score.
+  </li>
   <li></li>
   <li></li>
   <li></li>
