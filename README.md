@@ -21,7 +21,9 @@
     What is the difference between decision trees and random forests?
   </li>
   <li>Explain the difference between L1 (Lasso) and L2 (Ridge) regularization.</li>
-  <li></li>
+  <li>
+    What is the difference between Bagging and Boosting?
+  </li>
   <li></li>
   <li></li>
   <li></li>
