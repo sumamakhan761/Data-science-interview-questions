@@ -30,6 +30,12 @@
   <li>What is the difference between Bagging and Boosting?</li>
 <li>Explain the working of K-Means clustering.</li>
 <li>Why do we normalize or standardize data?</li>
+<li>What is feature selection? Name some techniques.</li>
+<li>What are outliers? How do you handle them?</li>
+<li>What is PCA, and how does it work?</li>
+<li>What is cross-validation?</li>
+<li>What is AUC-ROC curve?</li>
+<li>How do you handle an imbalanced dataset?</li>
 
 </ul>
 </details>
