@@ -1,6 +1,9 @@
 # Data science interview-questions
 ## Machine Learning
-### standard questions
+
+<details open>
+  <summary>Standard Questions</summary>
+  </br>  
 <ul>
   <li>
     What is the difference between supervised and unsupervised learning?
@@ -24,11 +27,9 @@
   <li>
     What is the difference between Bagging and Boosting?
   </li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>What is the difference between Bagging and Boosting?</li>
+<li>Explain the working of K-Means clustering.</li>
+<li>Why do we normalize or standardize data?</li>
+
 </ul>
+</details>
