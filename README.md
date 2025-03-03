@@ -35,7 +35,5 @@
 <li>What is PCA, and how does it work?</li>
 <li>What is cross-validation?</li>
 <li>What is AUC-ROC curve?</li>
-<li>How do you handle an imbalanced dataset?</li>
-
 </ul>
 </details>
