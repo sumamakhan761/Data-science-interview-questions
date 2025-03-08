@@ -1,5 +1,5 @@
 # Data science interview-questions
-## Machine Learning
+## Machine Learning Inerview Questions
 
 <details open>
   <summary>Standard Questions</summary>
