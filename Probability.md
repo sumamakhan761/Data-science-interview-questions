@@ -12,5 +12,8 @@
 - Jane Street - Two teams are playing a best-of-7 tournament. Each team has a 50% chance of winning. What is the probability that they reach the 7th game?
 - Meta - What is the probability of getting a pair by drawing 2 cards in a 52 card deck?
 - Belvedere Trading - If you flip a coin 4 times, what is the probability that you get exactly 3 heads?
-    
+- Verizon Wireless - What is the probability of getting at least one 5 when throwing dice 7 times?
+- Zenefits - There are 30 red marbles and 10 black marbles in Urn #1. You have 20 red and 20 Black marbles in Urn #2. Randomly you pull a marble from the random urn and find that it is red. What is the probability that it was pulled from Urn #1?
+- Zenefits - Alice and Bob take turns in rolling a fair dice. Whoever gets "6" first wins the game. Alice starts the game. What are the chances that Alice wins?
+- HealthTap - There are 25 horses. You can race any 5 of them at once, and all you get is the order they finished. How many races would you need to find the 3 fastest horses?
   </details>
