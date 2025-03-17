@@ -1,4 +1,11 @@
 # Data science interview-questions
+
+## Probability
+<details open>
+  <summary>Questions</summary>
+  </br>
+</details>
+
 ## Machine Learning
 
 <details open>
