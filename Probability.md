@@ -11,5 +11,6 @@
 - Jane Street - What's the probability of obtaining 2 tails in 5 coin flips?
 - Jane Street - Two teams are playing a best-of-7 tournament. Each team has a 50% chance of winning. What is the probability that they reach the 7th game?
 - Meta - What is the probability of getting a pair by drawing 2 cards in a 52 card deck?
+- Belvedere Trading - If you flip a coin 4 times, what is the probability that you get exactly 3 heads?
     
   </details>
