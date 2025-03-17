@@ -11,5 +11,5 @@
 - Jane Street - What's the probability of obtaining 2 tails in 5 coin flips?
 - Jane Street - Two teams are playing a best-of-7 tournament. Each team has a 50% chance of winning. What is the probability that they reach the 7th game?
 - Meta - What is the probability of getting a pair by drawing 2 cards in a 52 card deck?
-    
+- HealthTap - There are 25 horses. You can race any 5 of them at once, and all you get is the order they finished. How many races would you need to find the 3 fastest horses?
   </details>
