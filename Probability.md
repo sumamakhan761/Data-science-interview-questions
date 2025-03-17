@@ -11,5 +11,8 @@
 - Jane Street - What's the probability of obtaining 2 tails in 5 coin flips?
 - Jane Street - Two teams are playing a best-of-7 tournament. Each team has a 50% chance of winning. What is the probability that they reach the 7th game?
 - Meta - What is the probability of getting a pair by drawing 2 cards in a 52 card deck?
+- Verizon Wireless - What is the probability of getting at least one 5 when throwing dice 7 times?
+- Zenefits= There are 30 red marbles and 10 black marbles in Urn #1. You have 20 red and 20 Black marbles in Urn #2. Randomly you pull a marble from the random urn and find that it is red. What is the probability that it was pulled from Urn #1?
+- Zenefits Alice and Bob take turns in rolling a fair dice. Whoever gets "6" first wins the game. Alice starts the game. What are the chances that Alice wins?
     
   </details>
