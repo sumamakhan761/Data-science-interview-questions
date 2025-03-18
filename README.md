@@ -1,6 +1,6 @@
 # Data science interview-questions
 
-## [Probability](https://github.com/sumamakhan761/Data-science-interview-questions/probability.md)
+## [Probability](https://github.com/sumamakhan761/Data-science-interview-questions/blob/main/Probability.md)
 
 ## Machine Learning
 
