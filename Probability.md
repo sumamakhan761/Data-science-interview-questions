@@ -29,4 +29,6 @@
           - MicroSoft - A company has a website with a 5% conversion rate. They want to test a new design to see if it improves the conversion rate. They randomly show the new design to 100 users and the old design to another 100 users. The new design results in 10 conversions, while the old design results in 5 conversions. Is the new design statistically significant?
     - Amazon - A website has two versions of an advertisement: one with a blue background and one with a red background. You want to determine which version is more effective at getting users to click on the ad. You randomly show one version to 100 users and the other version to another 100 users. The blue ad is clicked on by 30 users and the red ad is clicked on by 40 users. What is the probability that the red ad is more effective, given this data?
         - Google - What’s the probability of observing 1000, given mu = 0 and Sd = 1?
+           - Apple - What is the similarity of cosine convolution?
+    - Stitch fix - There is a list of items and how many times each item is purchased (range from 10 to 100000 times). The probability of users buying each item is uniform (same across all users). Let's say we have an item "A" that has been recommended ten times and purchased ten times. What is the long-term probability of being purchased for this item?
   </details>
