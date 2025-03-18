@@ -34,5 +34,5 @@
       - Goldman Sach - There are 21 unbiased coins. Each of them flipped. What is the probability of getting even number of heads?
     - Google - Explain poisson distribution and how to apply that.
     - Deloite , TCS - Define posterior probability.
-   
+   - Google , Atlassian - Can the values of PDF be greater than 1? If so, how do we interpret PDF?
   </details>
