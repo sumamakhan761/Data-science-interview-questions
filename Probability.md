@@ -17,3 +17,11 @@
 - Zenefits - Alice and Bob take turns in rolling a fair dice. Whoever gets "6" first wins the game. Alice starts the game. What are the chances that Alice wins?
 - HealthTap - There are 25 horses. You can race any 5 of them at once, and all you get is the order they finished. How many races would you need to find the 3 fastest horses?
   </details>
+  
+    <details open>
+    <summary>Medium Questions</summary>
+    </br>
+      
+    - Zenefits - A computer program is designed to predict whether a stock will go up or down on a given day, and its accuracy rate is 60%. If the program predicts that a stock will go up on a given day, what is the probability that it will actually go up?
+      
+  </details>
