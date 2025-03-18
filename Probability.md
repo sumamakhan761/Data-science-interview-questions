@@ -23,5 +23,7 @@
     </br>
       
     - Zenefits - A computer program is designed to predict whether a stock will go up or down on a given day, and its accuracy rate is 60%. If the program predicts that a stock will go up on a given day, what is the probability that it will actually go up?
+     - DoorDash - A group of 10 friends randomly choose seats at a movie theater with 20 seats in a row. What is the probability that all 10 friends end up sitting next to each other?
+    - Airnb - A company wants to know the average age of its customers. They randomly select 100 customers and find that the average age is 35 with a standard deviation of 5 years. What is the 95% confidence interval for the true average age of the company's customers?
       
   </details>
