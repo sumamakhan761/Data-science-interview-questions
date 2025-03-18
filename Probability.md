@@ -32,5 +32,7 @@
            - Apple - What is the similarity of cosine convolution?
     - Stitch fix - There is a list of items and how many times each item is purchased (range from 10 to 100000 times). The probability of users buying each item is uniform (same across all users). Let's say we have an item "A" that has been recommended ten times and purchased ten times. What is the long-term probability of being purchased for this item?
       - Goldman Sach - There are 21 unbiased coins. Each of them flipped. What is the probability of getting even number of heads?
+    - Google - Explain poisson distribution and how to apply that.
+    - Deloite , TCS - Define posterior probability.
    
   </details>
