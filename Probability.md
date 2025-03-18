@@ -46,4 +46,6 @@
 Consider a random girl in the population of children. What is the probability that she has a sister?
 - Google , Meta - What is the probability of pulling a different color or shape card from a shuffled deck of 52 cards?
 - Meta - What is the probability of drawing two cards (from the same deck of cards) that have the same suite?
+- Meta - Three ants are sitting at the three corners of an equilateral triangle. Each ant starts randomly picks a direction and starts to move along the edge of the triangle. What is the probability that none of the ants collide?
+  Meta - You're about to get on a plane to Seattle. You want to know if you should bring an umbrella. You call 3 random friends of yours who live there and ask each independently if it's raining. Each of your friends has a 2/3 chance of telling you the truth and a 1/3 chance of messing with you by lying. All 3 friends tell you that "Yes" it is raining. What is the probability that it's actually raining in Seattle?
   </details>
