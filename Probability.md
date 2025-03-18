@@ -45,5 +45,5 @@
                 ```
 Consider a random girl in the population of children. What is the probability that she has a sister?
 - Google , Meta - What is the probability of pulling a different color or shape card from a shuffled deck of 52 cards?
-  
+- Meta - What is the probability of drawing two cards (from the same deck of cards) that have the same suite?
   </details>
