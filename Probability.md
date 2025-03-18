@@ -38,11 +38,11 @@
      - Deloite , KPMG - What is the difference between likelihood and probability?
     - Assume the distribution of children per family is as given in the table below:
 
-                ```
+      
                 n_children	0   1	   2 	 3  	4	>=5
       
                  p	      0.3  0.25	0.2	0.15	0.1	0
-                ```
+      
 Consider a random girl in the population of children. What is the probability that she has a sister?
 - Google , Meta - What is the probability of pulling a different color or shape card from a shuffled deck of 52 cards?
 - Meta - What is the probability of drawing two cards (from the same deck of cards) that have the same suite?
