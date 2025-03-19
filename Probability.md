@@ -49,3 +49,12 @@ Consider a random girl in the population of children. What is the probability th
 - Meta - Three ants are sitting at the three corners of an equilateral triangle. Each ant starts randomly picks a direction and starts to move along the edge of the triangle. What is the probability that none of the ants collide?
   Meta - You're about to get on a plane to Seattle. You want to know if you should bring an umbrella. You call 3 random friends of yours who live there and ask each independently if it's raining. Each of your friends has a 2/3 chance of telling you the truth and a 1/3 chance of messing with you by lying. All 3 friends tell you that "Yes" it is raining. What is the probability that it's actually raining in Seattle?
   </details>
+
+
+<details open>
+    <summary>Medium Questions</summary>
+    </br>
+  
+  - Google - A cybersecurity firm reports that 10% of all emails sent are spam. If a user receives 100 emails, what is the probability that at least 5 of them are spam?
+  - Goldmans sachs - You are given a bag containing 10 balls, of which 3 are red and 7 are blue. You randomly draw 3 balls without replacement. What is the probability that at least 2 of the balls are red?
+</details>
