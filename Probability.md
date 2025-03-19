@@ -62,5 +62,5 @@ Consider a random girl in the population of children. What is the probability th
   - Google -We are given two random variables, X and Y. Both are independent and uniformly distributed in some interval, each with the mean of 0 and the standard deviation of 1. What is the probability that 2X>Y?
   - Amazon - Suppose you flip a (biased) coin N times and it lands heads K times. Can you derive the Maximum Likelihood estimator of the coin’s probability of landing heads?
   - Jane Street - You flip four coins. At least two are tails. What is the probability that exactly three are tails? Note: some interviewers might ask you not to use any tools, even pen and paper!
-  - 
+  - Jane Street - A asymmetrical dice with 12 faces, with 40% the rolled number is 12, and the remaining 60% are distributed equally among the remaining faces of the dice. Two people, choose a number, the one whose number is closer to the result will win. which number should they choose?
 </details>
