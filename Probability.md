@@ -59,5 +59,5 @@ Consider a random girl in the population of children. What is the probability th
   - Goldmans sachs - You are given a bag containing 10 balls, of which 3 are red and 7 are blue. You randomly draw 3 balls without replacement. What is the probability that at least 2 of the balls are red?
   -  Oracle - Suppose you have two coins, one of which is fair (heads and tails are equally likely) and one of which is biased (heads comes up 75% of the time). You randomly select one of the coins and flip it twice. If both flips come up heads, what is the probability that the selected coin is the fair one?
   - Goldmans sachs - What is the Probability Density Function of  Z = max(X,Y) X,Y∼U(0,1)
-
+  - Google -We are given two random variables, X and Y. Both are independent and uniformly distributed in some interval, each with the mean of 0 and the standard deviation of 1. What is the probability that 2X>Y?
 </details>
