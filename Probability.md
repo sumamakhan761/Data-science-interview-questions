@@ -77,6 +77,6 @@ Consider a random girl in the population of children. What is the probability th
 - Goldman Sachs - What is the Probability Density Function of Z=max(X,Y) where X,Y∼U(0,1)?
 - Jane Street - You flip four coins. At least two are tails. What is the probability that exactly three are tails? Note: some interviewers might ask you not to use any tools, even pen and paper!
 - Jane Street - You have a drawer with an infinite number of socks of two colors, which exist with equal probability. What is the expected number of attempts of taking out individual socks before a matching pair is found?
-- 
+- DRW - Let x∼U(0,1) and y∼U(0,2) be independent random variables, what's the expectation of ∣x−y∣?
   
 </details>
