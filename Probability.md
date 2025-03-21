@@ -69,9 +69,11 @@ Consider a random girl in the population of children. What is the probability th
     <summary>Hard Questions</summary>
     </br>
 
-  - Google - A cybersecurity firm reports that 10% of all emails sent are spam. If a user receives 100 emails, what is the probability that at least 5 of them are spam?
-  - Golman Sachs  - You are given a bag containing 10 balls, of which 3 are red and 7 are blue. You randomly draw 3 balls without replacement. What is the probability that at least 2 of the balls are red?
-  - Oracle - Suppose you have two coins, one of which is fair (heads and tails are equally likely) and one of which is biased (heads comes up 75% of the time). You randomly select one of the coins and flip it twice. If both flips come up heads, what is the probability that the selected coin is the fair one?
-    - Google - We are given two random variables,X and Y. Both are independent and uniformly distributed in some interval, each with the mean of 0 and the standard deviation of 1. What is the probability that 2X>Y?
+- Google - A cybersecurity firm reports that 10% of all emails sent are spam. If a user receives 100 emails, what is the probability that at least 5 of them are spam?
+- Golman Sachs  - You are given a bag containing 10 balls, of which 3 are red and 7 are blue. You randomly draw 3 balls without replacement. What is the probability that at least 2 of the balls are red?
+- Oracle - Suppose you have two coins, one of which is fair (heads and tails are equally likely) and one of which is biased (heads comes up 75% of the time). You randomly select one of the coins and flip it twice. If both flips come up heads, what is the probability that the selected coin is the fair one?
+- Google - We are given two random variables,X and Y. Both are independent and uniformly distributed in some interval, each with the mean of 0 and the standard deviation of 1. What is the probability that 2X>Y?
+- Amazon - Suppose you flip a (biased) coin N times and it lands heads K times. Can you derive the Maximum Likelihood estimator of the coin’s probability of landing heads?
+- 
   
 </details>
