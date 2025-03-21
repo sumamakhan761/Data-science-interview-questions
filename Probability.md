@@ -64,3 +64,12 @@ Consider a random girl in the population of children. What is the probability th
   - Jane Street - You flip four coins. At least two are tails. What is the probability that exactly three are tails? Note: some interviewers might ask you not to use any tools, even pen and paper!
   - Jane Street - A asymmetrical dice with 12 faces, with 40% the rolled number is 12, and the remaining 60% are distributed equally among the remaining faces of the dice. Two people, choose a number, the one whose number is closer to the result will win. which number should they choose?
 </details>
+
+<details open>
+    <summary>Hard Questions</summary>
+    </br>
+
+  - Google - A cybersecurity firm reports that 10% of all emails sent are spam. If a user receives 100 emails, what is the probability that at least 5 of them are spam?
+  - 
+  
+</details>
