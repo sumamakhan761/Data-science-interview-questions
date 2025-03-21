@@ -75,5 +75,7 @@ Consider a random girl in the population of children. What is the probability th
 - Google - We are given two random variables,X and Y. Both are independent and uniformly distributed in some interval, each with the mean of 0 and the standard deviation of 1. What is the probability that 2X>Y?
 - Amazon - Suppose you flip a (biased) coin N times and it lands heads K times. Can you derive the Maximum Likelihood estimator of the coin’s probability of landing heads?
 - Goldman Sachs - What is the Probability Density Function of Z=max(X,Y) where X,Y∼U(0,1)?
+- Jane Street - You flip four coins. At least two are tails. What is the probability that exactly three are tails? Note: some interviewers might ask you not to use any tools, even pen and paper!
+- 
   
 </details>
