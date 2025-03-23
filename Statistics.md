@@ -15,5 +15,7 @@
   - Google , Quora - When do you use mean vs median?
   - Amazon - What are different techniques to assess multicollinearity?
   - IBM , Dell - What methods would you use to detect outliers in a dataset?
+  - SAP - What is the difference between the standard normal distribution (Z-distribution) and the Student's t-distribution?
+  - Google - What is the standard error of the mean?
     
 </details>
