@@ -17,5 +17,10 @@
   - IBM , Dell - What methods would you use to detect outliers in a dataset?
   - SAP - What is the difference between the standard normal distribution (Z-distribution) and the Student's t-distribution?
   - Google - What is the standard error of the mean?
+  - Tata Consultancy - What is best describing the central tendency of the data set?
+  - Glassdoor - What statistical methods would you use to compare two populations or groups of a population to find significant differences or similarities?
+  - Intuit - Provide formulas for precision and recall
+  - Meta - In what cases does the coefficient of determination take negative values?
+  - Linkedin - There are 590381 visitors of an online store including 269400 mobile app users and 320981 desktop site users. 701 visitors made a purchase: 507 via the mobile app and 194 via the desktop site. What is the base conversion rate for mobile app versus desktop site?
     
 </details>
