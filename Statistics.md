@@ -26,5 +26,7 @@
   - Microsoft - What is the definition of the variance?
   - Microsoft , Dell - What is the difference between a box plot and a histogram?
   - Uber - How do you find an anomaly in a distribution?
+  - FINRA - Prove why Pearson's correlation coefficient is between -1 and 1.?
+  - Yelp , Glassdoor - What is the difference between Bayesian vs frequentist statistics?
     
 </details>
