@@ -22,5 +22,9 @@
   - Intuit - Provide formulas for precision and recall
   - Meta - In what cases does the coefficient of determination take negative values?
   - Linkedin - There are 590381 visitors of an online store including 269400 mobile app users and 320981 desktop site users. 701 visitors made a purchase: 507 via the mobile app and 194 via the desktop site. What is the base conversion rate for mobile app versus desktop site?
+  - Google , MicroSoft - For sample size n, the margin of error is 3. How many more samples do we need to bring the margin of error down to 0.3?
+  - Microsoft - What is the definition of the variance?
+  - Microsoft , Dell - What is the difference between a box plot and a histogram?
+  - Uber - How do you find an anomaly in a distribution?
     
 </details>
