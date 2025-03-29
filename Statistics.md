@@ -31,5 +31,7 @@
   - Mastercard , Squre - How to implement statistics mean function in Python?
   - Lyft - How do you draw a uniform random sample from a circle in polar coordinates?
   - Tesla - There are 100 products and 25 of them are bad. What is the confidence interval?
+  - Amazon - In an A/B test, how can you check if assignment to the various buckets was truly random?
+  - IBM - What is an example of a dataset with a non-Gaussian distribution?
     
 </details>
