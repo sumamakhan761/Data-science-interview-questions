@@ -28,5 +28,8 @@
   - Uber - How do you find an anomaly in a distribution?
   - FINRA - Prove why Pearson's correlation coefficient is between -1 and 1.?
   - Yelp , Glassdoor - What is the difference between Bayesian vs frequentist statistics?
+  - Mastercard , Squre - How to implement statistics mean function in Python?
+  - Lyft - How do you draw a uniform random sample from a circle in polar coordinates?
+  - Tesla - There are 100 products and 25 of them are bad. What is the confidence interval?
     
 </details>
