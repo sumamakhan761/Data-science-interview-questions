@@ -35,3 +35,8 @@
   - IBM - What is an example of a dataset with a non-Gaussian distribution?
     
 </details>
+
+<details open>
+  <summary>🟡 Medium </summary>
+  <br/>
+</details>
