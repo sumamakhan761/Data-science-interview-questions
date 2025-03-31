@@ -1,6 +1,7 @@
 # Data science Top Tech Interview Question interview-questions
 
 ## [Probability](https://github.com/sumamakhan761/Data-science-interview-questions/blob/main/Probability.md)
+## [Statistics](https://github.com/sumamakhan761/Data-science-interview-questions/blob/main/Statistics.md)
 
 ## Machine Learning
 
